@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
 ### Schedule-AI-App
 自然言語で予定を登録できるAI搭載スケジュール管理API  
@@ -33,7 +33,7 @@
 
 ---
 
-# FreeMarket
+### FreeMarket
 
 ## 📌 Overview
 フリマアプリ。ユーザー登録・商品出品・購入・検索機能あり。
