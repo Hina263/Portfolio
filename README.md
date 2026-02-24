@@ -34,9 +34,7 @@
 ---
 
 ### FreeMarket
-
-## 📌 Overview
-フリマアプリ。ユーザー登録・商品出品・購入・検索機能あり。
+フリマアプリ
 
 🔗 https://github.com/Hina263/FreeMarket
 
@@ -50,7 +48,6 @@
 ---
 
 ### Yurage_app（チーム開発）
-
 思春期世代の生活習慣改善を目的としたWebアプリ。
 
 【担当】
