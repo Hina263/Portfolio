@@ -9,7 +9,7 @@
 ## 🛠 Skills
 - Java / Spring Boot
 - Python / Django
-- MySQL
+- MySQL/PostgreSQL
 - HTML / CSS
 - AWS (EC2)
 - Git / GitHub
